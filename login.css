@@ -1,0 +1,32 @@
+body{
+    text-align:center;
+    background-color:rgb(214, 211, 211);
+    border: black;
+}
+form{
+    border: 3px solid brown;
+}
+h1{
+    padding: 30px;
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+}
+h2{
+    font-family: cursive;
+}
+p{
+    font-size: medium;
+    font-family: cursive;
+    color: chocolate;
+    font-weight: bolder;
+}
+button{
+    background-color: #46c999;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}

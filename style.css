@@ -1,0 +1,60 @@
+header h1{
+    text-align: center;
+    font-family: cursive;
+    font-size: 40px;
+    color: rgb(163, 27, 95) ;
+}
+header {
+    padding: 40px;
+    background-image:url("2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav{
+    padding: 20px;
+    text-align: center;
+    background-color:rgb(183, 228, 228);
+    font-family: cursive;
+    font-size: larger;
+}
+body{
+    background-color:floralwhite;
+}
+main{
+    text-align: center;
+}
+video{
+    padding: 20px;
+}
+img{
+    padding: 10px;
+    border:  solid #555;
+}
+h3{
+    font-family: cursive;
+    font-weight: bold;
+    color: blueviolet;
+}
+.link:hover{
+    color: rgb(82, 50, 8);
+}
+.link{
+    color: crimson;
+}
+h2 {
+    padding: 20px;
+}
+h4{
+    font-size: medium;
+    font-family: cursive;
+}
+h5{
+    font-family: cursive;
+}
+footer{
+    padding: 25px;
+    text-align: center;
+    background-color: black;
+    font-family: cursive;
+    font-size: medium;
+}
